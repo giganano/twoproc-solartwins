@@ -1,0 +1,7 @@
+
+*.out
+*.fits
+*.sublime-project
+*.sublime-workspace
+**/.ipynb_checkpoints/**
+
